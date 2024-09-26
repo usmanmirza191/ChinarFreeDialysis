@@ -1,0 +1,44 @@
+D:\My Work\ChinarDialysisCenterRepo\ChinarDialysisCenter.DbAccess\bin\Debug\net6.0\ChinarDialysisCenter.DbAccess.deps.json
+D:\My Work\ChinarDialysisCenterRepo\ChinarDialysisCenter.DbAccess\bin\Debug\net6.0\ChinarDialysisCenter.DbAccess.dll
+D:\My Work\ChinarDialysisCenterRepo\ChinarDialysisCenter.DbAccess\bin\Debug\net6.0\ChinarDialysisCenter.DbAccess.pdb
+D:\My Work\ChinarDialysisCenterRepo\ChinarDialysisCenter.DbAccess\obj\Debug\net6.0\ChinarDialysisCenter.DbAccess.csproj.AssemblyReference.cache
+D:\My Work\ChinarDialysisCenterRepo\ChinarDialysisCenter.DbAccess\obj\Debug\net6.0\ChinarDialysisCenter.DbAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Work\ChinarDialysisCenterRepo\ChinarDialysisCenter.DbAccess\obj\Debug\net6.0\ChinarDialysisCenter.DbAccess.AssemblyInfoInputs.cache
+D:\My Work\ChinarDialysisCenterRepo\ChinarDialysisCenter.DbAccess\obj\Debug\net6.0\ChinarDialysisCenter.DbAccess.AssemblyInfo.cs
+D:\My Work\ChinarDialysisCenterRepo\ChinarDialysisCenter.DbAccess\obj\Debug\net6.0\ChinarDialysisCenter.DbAccess.csproj.CoreCompileInputs.cache
+D:\My Work\ChinarDialysisCenterRepo\ChinarDialysisCenter.DbAccess\obj\Debug\net6.0\ChinarDialysisCenter.DbAccess.dll
+D:\My Work\ChinarDialysisCenterRepo\ChinarDialysisCenter.DbAccess\obj\Debug\net6.0\refint\ChinarDialysisCenter.DbAccess.dll
+D:\My Work\ChinarDialysisCenterRepo\ChinarDialysisCenter.DbAccess\obj\Debug\net6.0\ChinarDialysisCenter.DbAccess.pdb
+D:\My Work\ChinarDialysisCenterRepo\ChinarDialysisCenter.DbAccess\obj\Debug\net6.0\ref\ChinarDialysisCenter.DbAccess.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.DbAccess\bin\Debug\net6.0\ChinarDialysisCenter.DbAccess.deps.json
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.DbAccess\bin\Debug\net6.0\ChinarDialysisCenter.DbAccess.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.DbAccess\bin\Debug\net6.0\ChinarDialysisCenter.DbAccess.pdb
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.DbAccess\obj\Debug\net6.0\ChinarDialysisCenter.DbAccess.csproj.AssemblyReference.cache
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.DbAccess\obj\Debug\net6.0\ChinarDialysisCenter.DbAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.DbAccess\obj\Debug\net6.0\ChinarDialysisCenter.DbAccess.AssemblyInfoInputs.cache
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.DbAccess\obj\Debug\net6.0\ChinarDialysisCenter.DbAccess.AssemblyInfo.cs
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.DbAccess\obj\Debug\net6.0\ChinarDialysisCenter.DbAccess.csproj.CoreCompileInputs.cache
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.DbAccess\obj\Debug\net6.0\ChinarDialysisCenter.DbAccess.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.DbAccess\obj\Debug\net6.0\refint\ChinarDialysisCenter.DbAccess.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.DbAccess\obj\Debug\net6.0\ChinarDialysisCenter.DbAccess.pdb
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.DbAccess\obj\Debug\net6.0\ref\ChinarDialysisCenter.DbAccess.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.DbAccess\bin\Debug\net6.0\ChinarDialysisCenter.Domain.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.DbAccess\bin\Debug\net6.0\ChinarDialysisCenter.Domain.pdb
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.DbAccess\obj\Debug\net6.0\ChinarDi.057F3A88.Up2Date
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.DbAccess\obj\Debug\net6.0\ChinarDialysisCenter.DbAccess.sourcelink.json
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.DbAccess\bin\Debug\net6.0\ChinarDialysisCenter.DbAccess.deps.json
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.DbAccess\bin\Debug\net6.0\ChinarDialysisCenter.DbAccess.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.DbAccess\bin\Debug\net6.0\ChinarDialysisCenter.DbAccess.pdb
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.DbAccess\bin\Debug\net6.0\ChinarDialysisCenter.Domain.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.DbAccess\bin\Debug\net6.0\ChinarDialysisCenter.Domain.pdb
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.DbAccess\obj\Debug\net6.0\ChinarDialysisCenter.DbAccess.csproj.AssemblyReference.cache
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.DbAccess\obj\Debug\net6.0\ChinarDialysisCenter.DbAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.DbAccess\obj\Debug\net6.0\ChinarDialysisCenter.DbAccess.AssemblyInfoInputs.cache
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.DbAccess\obj\Debug\net6.0\ChinarDialysisCenter.DbAccess.AssemblyInfo.cs
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.DbAccess\obj\Debug\net6.0\ChinarDialysisCenter.DbAccess.csproj.CoreCompileInputs.cache
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.DbAccess\obj\Debug\net6.0\ChinarDialysisCenter.DbAccess.sourcelink.json
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.DbAccess\obj\Debug\net6.0\ChinarDialysisCenter.DbAccess.csproj.CopyComplete
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.DbAccess\obj\Debug\net6.0\ChinarDialysisCenter.DbAccess.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.DbAccess\obj\Debug\net6.0\refint\ChinarDialysisCenter.DbAccess.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.DbAccess\obj\Debug\net6.0\ChinarDialysisCenter.DbAccess.pdb
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.DbAccess\obj\Debug\net6.0\ref\ChinarDialysisCenter.DbAccess.dll

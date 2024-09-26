@@ -1,0 +1,137 @@
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\spa.proxy.json
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\appsettings.Development.json
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\appsettings.json
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\ChinarDialysisCenter.Server.exe
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\ChinarDialysisCenter.Server.deps.json
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\ChinarDialysisCenter.Server.runtimeconfig.json
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\ChinarDialysisCenter.Server.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\ChinarDialysisCenter.Server.pdb
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\ChinarDialysisCenter.Server.csproj.AssemblyReference.cache
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\spa.proxy.json
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\ChinarDialysisCenter.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\ChinarDialysisCenter.Server.AssemblyInfoInputs.cache
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\ChinarDialysisCenter.Server.AssemblyInfo.cs
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\ChinarDialysisCenter.Server.csproj.CoreCompileInputs.cache
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\ChinarDialysisCenter.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\ChinarDialysisCenter.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\staticwebassets.build.json
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\staticwebassets.development.json
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\staticwebassets\msbuild.ChinarDialysisCenter.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\staticwebassets\msbuild.build.ChinarDialysisCenter.Server.props
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChinarDialysisCenter.Server.props
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChinarDialysisCenter.Server.props
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\staticwebassets.pack.json
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\scopedcss\bundle\ChinarDialysisCenter.Server.styles.css
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\ChinarDi.D2796E88.Up2Date
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\ChinarDialysisCenter.Server.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\refint\ChinarDialysisCenter.Server.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\ChinarDialysisCenter.Server.pdb
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\ChinarDialysisCenter.Server.genruntimeconfig.cache
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\ref\ChinarDialysisCenter.Server.dll
+D:\My Work\ChinarDialysisCenterRepo\ChinarDialysisCenter.Server\obj\Debug\net6.0\ChinarDialysisCenter.Server.dll
+D:\My Work\ChinarDialysisCenterRepo\ChinarDialysisCenter.Server\obj\Debug\net6.0\refint\ChinarDialysisCenter.Server.dll
+D:\My Work\ChinarDialysisCenterRepo\ChinarDialysisCenter.Server\obj\Debug\net6.0\ChinarDialysisCenter.Server.pdb
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\Autofac.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\Dapper.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\ChinarDialysisCenter.Business.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\ChinarDialysisCenter.DbAccess.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\ChinarDialysisCenter.Domain.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\ChinarDialysisCenter.Business.pdb
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\ChinarDialysisCenter.DbAccess.pdb
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\ChinarDialysisCenter.Domain.pdb
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\System.Text.Json.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\My Work\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\ChinarDialysisCenter.Server.sourcelink.json
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\appsettings.Development.json
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\appsettings.json
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\spa.proxy.json
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\ChinarDialysisCenter.Server.exe
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\ChinarDialysisCenter.Server.deps.json
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\ChinarDialysisCenter.Server.runtimeconfig.json
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\ChinarDialysisCenter.Server.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\ChinarDialysisCenter.Server.pdb
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\Autofac.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\Dapper.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\System.Text.Json.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\ChinarDialysisCenter.Business.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\ChinarDialysisCenter.DbAccess.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\ChinarDialysisCenter.Domain.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\ChinarDialysisCenter.Business.pdb
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\ChinarDialysisCenter.DbAccess.pdb
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\bin\Debug\net6.0\ChinarDialysisCenter.Domain.pdb
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\ChinarDialysisCenter.Server.csproj.AssemblyReference.cache
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\spa.proxy.json
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\ChinarDialysisCenter.Server.GeneratedMSBuildEditorConfig.editorconfig
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\ChinarDialysisCenter.Server.AssemblyInfoInputs.cache
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\ChinarDialysisCenter.Server.AssemblyInfo.cs
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\ChinarDialysisCenter.Server.csproj.CoreCompileInputs.cache
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\ChinarDialysisCenter.Server.MvcApplicationPartsAssemblyInfo.cs
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\ChinarDialysisCenter.Server.MvcApplicationPartsAssemblyInfo.cache
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\ChinarDialysisCenter.Server.sourcelink.json
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\staticwebassets.build.json
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\staticwebassets.development.json
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\staticwebassets\msbuild.ChinarDialysisCenter.Server.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\staticwebassets\msbuild.build.ChinarDialysisCenter.Server.props
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChinarDialysisCenter.Server.props
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChinarDialysisCenter.Server.props
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\staticwebassets.pack.json
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\scopedcss\bundle\ChinarDialysisCenter.Server.styles.css
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\ChinarDialysisCenter.Server.csproj.CopyComplete
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\ChinarDialysisCenter.Server.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\refint\ChinarDialysisCenter.Server.dll
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\ChinarDialysisCenter.Server.pdb
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\ChinarDialysisCenter.Server.genruntimeconfig.cache
+E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Server\obj\Debug\net6.0\ref\ChinarDialysisCenter.Server.dll

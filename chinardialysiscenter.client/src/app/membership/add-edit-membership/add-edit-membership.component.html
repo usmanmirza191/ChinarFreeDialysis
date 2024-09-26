@@ -1,0 +1,41 @@
+<div class="d-flex flex-row bd-highlight mb-3">
+  <div class="p-2 w-50 bd-highlight">
+    <div class="input-group mb-3">
+      <span class="input-group-text">First Name</span>
+      <input type="text" class="form-control" [(ngModel)]="FirstName">
+    </div>
+    <div class="input-group mb-3">
+      <span class="input-group-text">Last Name</span>
+      <input type="text" class="form-control" [(ngModel)]="LastName">
+    </div>
+    <div class="input-group mb-3">
+      <span class="input-group-text">Mobile No</span>
+      <input type="text" class="form-control" [(ngModel)]="MobileNo">
+    </div>
+    <div class="input-group mb-3">
+      <span class="input-group-text">Whatsapp No</span>
+      <input type="text" class="form-control" [(ngModel)]="WhatsappNo">
+    </div>
+    <div class="input-group mb-3">
+      <span class="input-group-text">Email</span>
+      <input type="text" class="form-control" [(ngModel)]="Email">
+    </div>
+    <div class="input-group mb-3">
+      <span class="input-group-text">CNIC</span>
+      <input type="text" class="form-control" [(ngModel)]="CNIC">
+    </div>
+    <div class="input-group mb-3">
+      <span class="input-group-text">Address</span>
+      <input type="text" class="form-control" [(ngModel)]="Address">
+    </div>
+
+  </div>
+  
+</div>
+<button (click)="addMember()" *ngIf="member.Id == '0'" class="btn btn-primary">
+  Add
+</button>
+
+<button (click)="updateMember()" *ngIf="member.Id !='0'" class="btn btn-primary">
+  Update
+</button>

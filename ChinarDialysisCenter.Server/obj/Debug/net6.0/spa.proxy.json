@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\fast\\Downloads\\ChinarDialysisCenter-main\\ChinarDialysisCenter-main\\ChinarDialysisCenter.Server\\..\\chinardialysiscenter.client",
+"MaxTimeoutInSeconds": "120"
+}
+}

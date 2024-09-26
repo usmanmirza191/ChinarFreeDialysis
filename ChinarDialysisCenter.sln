@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChinarDialysisCenter.Server", "ChinarDialysisCenter.Server\ChinarDialysisCenter.Server.csproj", "{61FBD418-F06B-405E-8539-6DC5E2E70FD0}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "chinardialysiscenter.client", "chinardialysiscenter.client\chinardialysiscenter.client.esproj", "{D50FD4DD-DEFA-4286-B133-C9F7CD4B4158}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChinarDialysisCenter.Domain", "ChinarDialysisCenter.Domain\ChinarDialysisCenter.Domain.csproj", "{EADA901B-B92B-4CF3-899B-CF8B7E51F817}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChinarDialysisCenter.Business", "ChinarDialysisCenter.Business\ChinarDialysisCenter.Business.csproj", "{22EDA4C7-FA5D-44D2-976E-7A63C9AC9E28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChinarDialysisCenter.DbAccess", "ChinarDialysisCenter.DbAccess\ChinarDialysisCenter.DbAccess.csproj", "{D42F7BDB-7B31-4E47-A013-709E35C68985}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61FBD418-F06B-405E-8539-6DC5E2E70FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61FBD418-F06B-405E-8539-6DC5E2E70FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61FBD418-F06B-405E-8539-6DC5E2E70FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61FBD418-F06B-405E-8539-6DC5E2E70FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D50FD4DD-DEFA-4286-B133-C9F7CD4B4158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D50FD4DD-DEFA-4286-B133-C9F7CD4B4158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D50FD4DD-DEFA-4286-B133-C9F7CD4B4158}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D50FD4DD-DEFA-4286-B133-C9F7CD4B4158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D50FD4DD-DEFA-4286-B133-C9F7CD4B4158}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D50FD4DD-DEFA-4286-B133-C9F7CD4B4158}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{EADA901B-B92B-4CF3-899B-CF8B7E51F817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EADA901B-B92B-4CF3-899B-CF8B7E51F817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EADA901B-B92B-4CF3-899B-CF8B7E51F817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EADA901B-B92B-4CF3-899B-CF8B7E51F817}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22EDA4C7-FA5D-44D2-976E-7A63C9AC9E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22EDA4C7-FA5D-44D2-976E-7A63C9AC9E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22EDA4C7-FA5D-44D2-976E-7A63C9AC9E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22EDA4C7-FA5D-44D2-976E-7A63C9AC9E28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D42F7BDB-7B31-4E47-A013-709E35C68985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D42F7BDB-7B31-4E47-A013-709E35C68985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D42F7BDB-7B31-4E47-A013-709E35C68985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D42F7BDB-7B31-4E47-A013-709E35C68985}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FE67409-8B36-4B5C-A50B-87177E68D222}
+	EndGlobalSection
+EndGlobal
