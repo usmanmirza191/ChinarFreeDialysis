@@ -37,7 +37,8 @@
               "src/add_member_collection.html",
               "src/add_donor_collection.html",
               "src/agent_registration.html",
-              "src/member_registration.html"
+              "src/member_registration.html",
+              "src/login.html"
             ],
             "styles": [
               "src/styles.css"

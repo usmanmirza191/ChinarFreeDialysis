@@ -33,3 +33,15 @@ E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Domain\obj\Debug\net6.0\
 E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Domain\obj\Debug\net6.0\refint\ChinarDialysisCenter.Domain.dll
 E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Domain\obj\Debug\net6.0\ChinarDialysisCenter.Domain.pdb
 E:\ChinarCode\ChinarDialysisCenter\ChinarDialysisCenter.Domain\obj\Debug\net6.0\ref\ChinarDialysisCenter.Domain.dll
+C:\Users\fast\Downloads\ChinarDialysisCenter-main\ChinarDialysisCenter-main\ChinarDialysisCenter.Domain\bin\Debug\net6.0\ChinarDialysisCenter.Domain.deps.json
+C:\Users\fast\Downloads\ChinarDialysisCenter-main\ChinarDialysisCenter-main\ChinarDialysisCenter.Domain\bin\Debug\net6.0\ChinarDialysisCenter.Domain.dll
+C:\Users\fast\Downloads\ChinarDialysisCenter-main\ChinarDialysisCenter-main\ChinarDialysisCenter.Domain\bin\Debug\net6.0\ChinarDialysisCenter.Domain.pdb
+C:\Users\fast\Downloads\ChinarDialysisCenter-main\ChinarDialysisCenter-main\ChinarDialysisCenter.Domain\obj\Debug\net6.0\ChinarDialysisCenter.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fast\Downloads\ChinarDialysisCenter-main\ChinarDialysisCenter-main\ChinarDialysisCenter.Domain\obj\Debug\net6.0\ChinarDialysisCenter.Domain.AssemblyInfoInputs.cache
+C:\Users\fast\Downloads\ChinarDialysisCenter-main\ChinarDialysisCenter-main\ChinarDialysisCenter.Domain\obj\Debug\net6.0\ChinarDialysisCenter.Domain.AssemblyInfo.cs
+C:\Users\fast\Downloads\ChinarDialysisCenter-main\ChinarDialysisCenter-main\ChinarDialysisCenter.Domain\obj\Debug\net6.0\ChinarDialysisCenter.Domain.csproj.CoreCompileInputs.cache
+C:\Users\fast\Downloads\ChinarDialysisCenter-main\ChinarDialysisCenter-main\ChinarDialysisCenter.Domain\obj\Debug\net6.0\ChinarDialysisCenter.Domain.sourcelink.json
+C:\Users\fast\Downloads\ChinarDialysisCenter-main\ChinarDialysisCenter-main\ChinarDialysisCenter.Domain\obj\Debug\net6.0\ChinarDialysisCenter.Domain.dll
+C:\Users\fast\Downloads\ChinarDialysisCenter-main\ChinarDialysisCenter-main\ChinarDialysisCenter.Domain\obj\Debug\net6.0\refint\ChinarDialysisCenter.Domain.dll
+C:\Users\fast\Downloads\ChinarDialysisCenter-main\ChinarDialysisCenter-main\ChinarDialysisCenter.Domain\obj\Debug\net6.0\ChinarDialysisCenter.Domain.pdb
+C:\Users\fast\Downloads\ChinarDialysisCenter-main\ChinarDialysisCenter-main\ChinarDialysisCenter.Domain\obj\Debug\net6.0\ref\ChinarDialysisCenter.Domain.dll

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "ZyCK+Vp6yT1XfyTh4x87wQy/nId5ulm5gdoMAoDriFM=",
+  "Hash": "YP+UDIbkRYq1O0rU57Iz67rZwYJLl4LNaWaFXLnEdZk=",
   "Source": "ChinarDialysisCenter.Server",
   "BasePath": "_content/ChinarDialysisCenter.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "E:\\ChinarCode\\ChinarDialysisCenter\\chinardialysiscenter.client\\chinardialysiscenter.client.esproj",
+      "Identity": "C:\\Users\\fast\\Downloads\\ChinarDialysisCenter-main\\ChinarDialysisCenter-main\\chinardialysiscenter.client\\chinardialysiscenter.client.esproj",
       "Version": 2,
       "Source": "chinardialysiscenter.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",

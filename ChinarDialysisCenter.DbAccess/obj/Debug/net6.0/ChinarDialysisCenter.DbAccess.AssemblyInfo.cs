@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChinarDialysisCenter.DbAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f87895a8529c6dee1d7e09ffc79c26c0d995c2b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChinarDialysisCenter.DbAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChinarDialysisCenter.DbAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

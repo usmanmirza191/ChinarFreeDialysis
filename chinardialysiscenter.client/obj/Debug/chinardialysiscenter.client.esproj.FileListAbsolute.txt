@@ -1,3 +1,4 @@
 D:\My Work\ChinarDialysisCenter\chinardialysiscenter.client\obj\Debug\chinardialysiscenter.client.esproj.CoreCompileInputs.cache
 D:\My Work\ChinarDialysisCenterRepo\chinardialysiscenter.client\obj\Debug\chinardialysiscenter.client.esproj.CoreCompileInputs.cache
 E:\ChinarCode\ChinarDialysisCenter\chinardialysiscenter.client\obj\Debug\chinardialysiscenter.client.esproj.CoreCompileInputs.cache
+C:\Users\fast\Downloads\ChinarDialysisCenter-main\ChinarDialysisCenter-main\chinardialysiscenter.client\obj\Debug\chinardialysiscenter.client.esproj.CoreCompileInputs.cache
